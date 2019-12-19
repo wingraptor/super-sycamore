@@ -10,7 +10,7 @@ params:
         url: 'https://www.stackbit.com'
   header:
     has_nav: true
-    logo_img: /images/deplantuhman4.png
+    logo_img: /images/deplantuhman10.png
     title: Ampersand
   layout_style: grid
   palette: green
