@@ -1,19 +1,19 @@
 title: Stackbit Ampersand Theme
 baseURL: /
 params:
-  layout_style: grid
-  palette: green
-  header:
-    title: Ampersand
-    logo_img: images/logo.png
-    has_nav: true
   footer:
     content: '&copy; All rights reserved.'
-    links:
-      - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
-        new_window: true
     has_social: true
+    links:
+      - new_window: true
+        text: Made with Stackbit
+        url: 'https://www.stackbit.com'
+  header:
+    has_nav: true
+    logo_img: /images/deplantuhman3.png
+    title: Ampersand
+  layout_style: grid
+  palette: green
 disableKinds:
   - RSS
   - taxonomy
