@@ -3,10 +3,7 @@ title: Home
 sections:
   - actions: []
     component: intro.html
-    content: |-
-      Welcome to De Plantuh Man. 
-
-      Your source of all things Agriculture in Barbados.
+    content: Enter | Learn | Grow
     section_id: intro
     title: Intro
     type: intro
