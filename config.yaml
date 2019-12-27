@@ -12,7 +12,7 @@ params:
     has_nav: true
     logo_img: ''
     title: De Plantuh Man
-  layout_style: grid
+  layout_style: list
   palette: red
 disableKinds:
   - RSS
