@@ -41,8 +41,11 @@
 }
 
 .site-title {
-  color: _palette(secondary);
+  // color: _palette(secondary);
   font-family: _font(secondary);
+  background: linear-gradient(to right,#008542, #FFE000,#E70001);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   font-size: 2.3rem;
   font-weight: normal;
   line-height: 1.2;
