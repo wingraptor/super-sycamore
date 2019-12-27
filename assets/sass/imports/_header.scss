@@ -102,8 +102,10 @@
   }
 
   .site-navigation {
-    background: #fff;
-    border-top: 5px solid _palette(accent);
+    background: #1A1D24;
+  border-image-source: linear-gradient(45deg, #008542, #FFE000, #E70001);
+    border-image-slice: 1;
+    border-top: solid 5px;
     box-sizing: border-box;
     bottom: 0;
     left: 0;
