@@ -1,7 +1,6 @@
 /**
  * Main JS file for theme behaviours
  */
-const commentBox = require('commentbox.io');
 commentBox('my-project-id');
 // Responsive video embeds
 var videoEmbeds = [
