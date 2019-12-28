@@ -1,7 +1,12 @@
 /**
  * Main JS file for theme behaviours
  */
-commentBox('my-project-id');
+commentBox('my-project-id', {
+  textColor: "#F9FFEE", // default black
+  subtextColor: null, // default grey
+})
+
+
 // Responsive video embeds
 var videoEmbeds = [
   'iframe[src*="youtube.com"]',
