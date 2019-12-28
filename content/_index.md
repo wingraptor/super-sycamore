@@ -3,7 +3,7 @@ title: Home
 sections:
   - actions: []
     component: intro.html
-    content: '### Enter | Learn | Grow'
+    content: '### Vibe | Learn | Grow'
     section_id: intro
     title: Intro
     type: intro
