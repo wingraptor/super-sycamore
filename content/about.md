@@ -19,4 +19,6 @@ In order to achieve this aim **De Plantuh Man** will:
 2. Act as a centralized point for all things agriculture in Barbados and the wider Caribbean.There are many great projects, training seminars and other opportunities going right now in Barbados, but due to inadequate communication this information oftentimes doesn't reach relevant persons.
 
 
+So come and **Vibe, Learn and Grow** with us. 
+
 
