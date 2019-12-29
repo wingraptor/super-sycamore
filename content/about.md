@@ -12,7 +12,7 @@ As any Caribbean person knows if you want a truck, you call de truck man and if 
 
 More specifically, **De Plantuh Man** can be described as many things with a single aim; to present, discuss and examine the many means and methods of growing food and other plants and _herbs_ in Barbados and the wider Caribbean. 
 
-In order to achieve this aim De Plantuh Man will: 
+In order to achieve this aim **De Plantuh Man** will: 
 
 1. Compare and contrast different ways of growing crops and other plants. Every type of agriculture has its place, and we will try to present each in a fair and impartial way.
 
