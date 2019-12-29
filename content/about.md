@@ -1,6 +1,6 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work
+title: About Us
+subtitle: Who is the Plantuh Man?
 img_path: images/about.jpg
 menu:
   main:
@@ -8,13 +8,14 @@ menu:
     weight: 2
 layout: page
 ---
+## Who Is De Plantuh Man?
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+As any Caribbean person knows if you want a truck, you call de truck man and if you want a taxi, you call de taxi man, so it's only natural that if you want anything to do with plants, you call....De Plantuh Man. It 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+## What 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+De Plantuh Man can be described as many things with a single aim; to bring the many means and methods of growing food and other plants and _herbs_ to Barbados. It’s time to take back the means of our success and in a small part, liberate us from reliance on foreign food imports.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+1. Agri-education: We want to compare and contrast different ways of growing crops and other plants. Every type of agriculture has its place, and we will try to present each in a fair and impartial way.
 
-*Thank You for reading!*
+2. Centralised point for all things agriculture in Barbados: There are many great projects, training seminars and other opportunities going right now in Barbados, but due to ineffective communication this information can be hard to come by unless you’re in the right circles.
