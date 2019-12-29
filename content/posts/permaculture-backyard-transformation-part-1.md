@@ -6,7 +6,7 @@ thumb_img_path: /images/img_20191219_132131.jpg
 excerpt: >-
   This is Part 1 of the Permaculture Backyard Transformation Project. In this
   post we will describe the current setup of the backyard; describing the
-  current plants, trees and other interesting features 
+  current plants, trees and other interesting features.
 layout: post
 ---
 
