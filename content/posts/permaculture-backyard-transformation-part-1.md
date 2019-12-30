@@ -44,3 +44,20 @@ This backyard space is quite small, having a total area of x m^2. However, due t
 <iframe src="https://giphy.com/embed/ne3xrYlWtQFtC" width="240" height="205" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 This area lies on the eastern side of the house and thus is shaded on its western side. This results in it being partially or fully shaded for ~6hrs per day, depending on the time of year. The eastern side is also partially shaded by the neighbors house, but to a much smaller degree. The backyard is open on the southern and northern sides. All of this is useful information for future planning plant selection and placement.
+
+## Special Features 🔎
+
+This space has a few special features that are worth highlighting on their own. 
+
+### Raised Beds
+
+Firstly I have three raised beds, one 'twin' bed and a single large bed. The twin bed is enclosed using leftover concrete blocks while the large single bed is enclosed with scrap pieces of wood. All beds are filled with a layered mixture of dried grass, branches and leaves, potting mix, compost and topped off with dried grass as a mulch. 
+
+
+**Pictures of raised beds**
+
+### Compost Space
+
+I have created a composting space for my kitchen scraps, cut grass and garden clippings using a few discarded pallets. Composting is something so simple and useful that everyone should be doing it....[right now](https://blog.edisonnation.com/2015/08/10-benefits-of-composting/https://blog.edisonnation.com/2015/08/10-benefits-of-composting/). It's so important that I will do a whole blog post on it😲. 
+
+
