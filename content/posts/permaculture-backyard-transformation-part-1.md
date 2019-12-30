@@ -58,4 +58,4 @@ For such a small space, I have 16 varieties of plants in various levels of matur
 This backyard space is quite small, having a total area of x m^2. However, due to a large well occupying an area of x m^2, the total usable area is x^2m. 
 <iframe src="https://giphy.com/embed/ne3xrYlWtQFtC" width="240" height="205" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-This area is eastward facing and shaded on both on its western side and eastern side. The western side is however shaded by a much greater degree which means that there is ~6hrs of shade per day; useful information for planning plant selection and placement. 
+This area is eastward facing and shaded on both on its western side and eastern side. The western side is however shaded by a much greater degree which means that there is full or partial shade for ~6hrs per day. The backyard is opened on the southern and northern sides. This is useful information for planning plant selection and placement. 
