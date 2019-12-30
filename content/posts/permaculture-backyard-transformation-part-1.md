@@ -201,4 +201,4 @@ Using a plastic half-barrel, I've created _safe space_ for  lettuce. This barrel
 
 All in all, this backyard space will be transformed using permaculture and other agricultural techniques in order to improve yield, aesthetics ✨✨ and to act as a showcase of techniques which persons can apply to their own spaces. 
 
-Stay tuned for part 2 of this series where we discuss how we plan to transform this space.
+Stay tuned for part 2 of this series where we discuss how we plan to transform this space.🙌
