@@ -17,6 +17,7 @@ My backyard space has undergone many changes over the past few years, from a wil
 \*\*\*Insert pictures of various phases here\*\*\*
 
 Truth be told, not much planning went into the overall design of the backyard, I just planted whatever, wherever there was space. 
+
 <iframe src="https://giphy.com/embed/Pk20jMIe44bHa" width="240" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Despite this, there are still some interesting features of this space that I will discuss. This will also give context for the transformation that will occur in the coming months. 
