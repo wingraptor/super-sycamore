@@ -16,7 +16,9 @@ My backyard space has undergone many changes over the past few years, from a wil
 
 \*\*\*Insert pictures of various phases here\*\*\*
 
-Truth be told, not much planning went into the overall design of the backyard, I just planted whatever, wherever there was space <iframe src="https://giphy.com/embed/Pk20jMIe44bHa" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>,
+Truth be told, not much planning went into the overall design of the backyard, I just planted whatever, wherever there was space.
+
+<iframe src="https://giphy.com/embed/Pk20jMIe44bHa" width="120" height="120" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Despite this, there are still some interesting features of this space that I will discuss. This will also give context for the transformation that will occur in the coming months. 
 
@@ -70,7 +72,9 @@ I have created a composting space for my kitchen scraps, cut grass and garden cl
 
 **Half-Barrel Bed**
 
-Using a plastic half-barrel, I've created _safe space_ for  lettuce. This barrel is filled completely with composted kitchen scraps and full of worms and other creatures which in turn help to create delicious lettuce. An added benefit of this setup is that when watered, all of the delicious brown liquid dripping from the bottom is collected and used as a rich fertilizer for other plants in the garden.
+Using a plastic half-barrel, I've created _safe space_ for  lettuce. This barrel is filled completely with composted kitchen scraps and full of worms and other creatures which in turn help to create delicious lettuce. 
+
+An added benefit of this setup is that when watered, all of the delicious brown liquid dripping from the bottom is collected and used as a rich fertilizer for other plants in the garden.
 
 <iframe src="https://giphy.com/embed/d3mlE7uhX8KFgEmY" width="240" height="132" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> 
 
