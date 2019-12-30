@@ -16,11 +16,11 @@ My backyard space has undergone many changes over the past few years, from a wil
 
 Truth be told, not much planning went into the overall design of the backyard, I just planted whatever, wherever there was space. Despite this, there are still some interesting features of this space that I will discuss. This will also give context for the transformation that will occur in the coming months. 
 
-\## The Plants 🌿
+## The Plants 🌿
 
 For such a small space, I have 16 varieties of plants in various levels of maturity (and health 😌) :
 
-1. Several bananas trees (technically a \[herb](<https://www.wikiwand.com/en/Banana>))
+1. Several bananas trees (technically a [herb](https://www.wikiwand.com/en/Banana))
 
 2. Pomegranate Tree
 
@@ -42,12 +42,12 @@ For such a small space, I have 16 varieties of plants in various levels of matur
 
 11. Few spinach plants
 
-12. Immature \[suriname cherry](<https://www.wikiwand.com/en/Eugenia_uniflora>)
+12. Immature [suriname cherry](https://www.wikiwand.com/en/Eugenia_uniflora)
 
-13. Immature \[Mediterranean Fig Tree](<https://www.wikiwand.com/en/Common_fig>[](https://www.wikiwand.com/en/Eugenia_uniflora))
+13. Immature [Mediterranean Fig Tree](https://www.wikiwand.com/en/Common_fig)
 
 14. Lemon grass
 
 15. (Too much) Basil
 
-16. \[Jack or Sword Bean](<https://www.wikiwand.com/en/Canavalia_ensiformis>)
+16. [Jack or Sword Bean](https://www.wikiwand.com/en/Canavalia_ensiformis)
