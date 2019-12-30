@@ -44,7 +44,7 @@ For such a small space, I have 16 varieties of plants in various levels of matur
 
 12. Immature \[suriname cherry](<https://www.wikiwand.com/en/Eugenia_uniflora>)
 
-13. Immature \[Mediterranean Fig Tree](<https://www.wikiwand.com/en/Eugenia_uniflora>)
+13. Immature \[Mediterranean Fig Tree](<https://www.wikiwand.com/en/Common_fig>[](https://www.wikiwand.com/en/Eugenia_uniflora))
 
 14. Lemon grass
 
