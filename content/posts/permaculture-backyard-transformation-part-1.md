@@ -21,41 +21,26 @@ Truth be told, not much planning went into the overall design of the backyard, I
 For such a small space, I have 16 varieties of plants in various levels of maturity (and health 😌) :
 
 1. Several bananas trees (technically a [herb](https://www.wikiwand.com/en/Banana))
-
 2. Pomegranate Tree
-
 3. Soursop tree
-
 4. Two lime trees,
-
 5. Four pawpaw trees (one male and tree hermaphrodites)
-
 6. Several okra plants
-
 7. Few scotch bonnet pepper plants
-
 8. Lettuce
-
 9. Sweet potato
-
 10. Immature eggplant...plants
-
 11. Few spinach plants
-
 12. Immature [suriname cherry](https://www.wikiwand.com/en/Eugenia_uniflora)
-
 13. Immature [mediterranean fig tree](https://www.wikiwand.com/en/Common_fig)
-
 14. Lemon grass
-
 15. (Too much) Basil
-
 16. [Jack or Sword Bean](https://www.wikiwand.com/en/Canavalia_ensiformis)
-
 
 ## The Layout 📐
 
 This backyard space is quite small, having a total area of x m^2. However, due to a large well occupying an area of x m^2, the total usable area is x^2m. 
+
 <iframe src="https://giphy.com/embed/ne3xrYlWtQFtC" width="240" height="205" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-This area is eastward facing and shaded on both on its western side and eastern side. The western side is however shaded by a much greater degree which means that there is full or partial shade for ~6hrs per day. The backyard is opened on the southern and northern sides. This is useful information for planning plant selection and placement. 
+This area lies on the eastern side of the house and thus is shaded on its western side. This results in it being partially or fully shaded for ~6hrs per day, depending on the time of year. The eastern side is also partially shaded by the neighbors house, but to a much smaller degree. The backyard is open on the southern and northern sides. All of this is useful information for future planning plant selection and placement.
