@@ -1,6 +1,6 @@
 ---
 title: Permaculture Backyard Transformation - Part 1
-subtitle: Current Setup
+subtitle: The Current Vibe
 date: 2019-12-29T14:14:11.032Z
 thumb_img_path: /images/img_20191219_132131.jpg
 content_img_path: /images/img_20191219_132131.jpg
