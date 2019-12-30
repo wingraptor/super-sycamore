@@ -44,10 +44,15 @@ For such a small space, I have 16 varieties of plants in various levels of matur
 
 12. Immature [suriname cherry](https://www.wikiwand.com/en/Eugenia_uniflora)
 
-13. Immature [Mediterranean Fig Tree](https://www.wikiwand.com/en/Common_fig)
+13. Immature [mediterranean fig tree](https://www.wikiwand.com/en/Common_fig)
 
 14. Lemon grass
 
 15. (Too much) Basil
 
 16. [Jack or Sword Bean](https://www.wikiwand.com/en/Canavalia_ensiformis)
+
+## The Layout
+
+This backyard space is quite small, having a total area of x m^2. However, due to a large well occupying an area of x m^2, the total usable area is x^2m. 
+<iframe src="https://giphy.com/embed/ne3xrYlWtQFtC" width="240" height="205" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-lol-ne3xrYlWtQFtC">via GIPHY</a></p>
