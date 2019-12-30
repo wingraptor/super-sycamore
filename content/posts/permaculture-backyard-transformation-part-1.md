@@ -52,7 +52,10 @@ For such a small space, I have 16 varieties of plants in various levels of matur
 
 16. [Jack or Sword Bean](https://www.wikiwand.com/en/Canavalia_ensiformis)
 
+
 ## The Layout
 
 This backyard space is quite small, having a total area of x m^2. However, due to a large well occupying an area of x m^2, the total usable area is x^2m. 
 <iframe src="https://giphy.com/embed/ne3xrYlWtQFtC" width="240" height="205" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+This area is eastward facing and shaded on both on its western side and eastern side. The western side is however shaded by a much greater degree which means that there is ~6hrs of shade per day; useful information for planning plant selection and placement. 
