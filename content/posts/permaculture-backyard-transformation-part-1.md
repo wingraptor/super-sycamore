@@ -53,7 +53,7 @@ For such a small space, I have 16 varieties of plants in various levels of matur
 16. [Jack or Sword Bean](https://www.wikiwand.com/en/Canavalia_ensiformis)
 
 
-## The Layout
+## The Layout📐
 
 This backyard space is quite small, having a total area of x m^2. However, due to a large well occupying an area of x m^2, the total usable area is x^2m. 
 <iframe src="https://giphy.com/embed/ne3xrYlWtQFtC" width="240" height="205" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
