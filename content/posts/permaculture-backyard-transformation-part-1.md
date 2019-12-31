@@ -14,7 +14,7 @@ layout: post
 
 My backyard space has undergone many changes over the past few years, from a wild mixture of elephant and wild grass, to a space containing a raised garden bed including a few trees to it's current incarnation which includes a few raised beds, a compost area, a *safe space* half-barrel, several varieties trees and plants and a thoroughly mulched space with little to no wild grass.
 
-\*\*\*Insert pictures of various phases here\*\*\*
+
 
 Truth be told, not much planning went into the overall design of the backyard, I just planted whatever, wherever there was space.
 
