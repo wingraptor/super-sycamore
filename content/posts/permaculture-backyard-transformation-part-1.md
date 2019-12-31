@@ -63,9 +63,9 @@ Firstly I have three raised beds, one 'twin' bed and a single large bed. The twi
 
 ### Compost Space
 
-I have created a composting space for my kitchen scraps, cut grass and garden clippings using a few discarded pallets. Composting is something so simple and useful that everyone should be doing it....[right now](https://blog.edisonnation.com/2015/08/10-benefits-of-composting/https://blog.edisonnation.com/2015/08/10-benefits-of-composting/). It's so important that I will do a whole blog post on it😲. 
+![Compost Area](/images/compost-resized.jpg "Compost area with three sections")
 
-**Picture of Composting Space**
+I have created a composting space for my kitchen scraps, cut grass and garden clippings using a few discarded pallets. Composting is something so simple and useful that everyone should be doing it....[right now](https://blog.edisonnation.com/2015/08/10-benefits-of-composting/https://blog.edisonnation.com/2015/08/10-benefits-of-composting/). It's so important that I will do a whole blog post on it😲. 
 
 ### Half-Barrel Bed
 
