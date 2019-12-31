@@ -4,10 +4,7 @@ params:
   footer:
     content: '&copy; All rights reserved.'
     has_social: true
-    links:
-      - new_window: true
-        text: Made with Stackbit
-        url: 'https://www.stackbit.com'
+    links: []
   header:
     has_nav: true
     logo_img: ''
