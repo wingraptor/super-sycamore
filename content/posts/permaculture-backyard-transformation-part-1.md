@@ -57,6 +57,8 @@ This space has a few special features that are worth highlighting on their own.
 
 ### Raised Beds
 
+![Single Garden Bed](/images/singbed-resized.jpg "Single Garden Bed")
+
 Firstly I have three raised beds, one 'twin' bed and a single large bed. The twin bed is enclosed using leftover concrete blocks while the large single bed is enclosed with scrap pieces of wood. All beds are filled with a layered mixture of dried grass, branches and leaves, potting mix, compost and topped off with dried grass as a mulch. 
 
 **Pictures of raised beds**
