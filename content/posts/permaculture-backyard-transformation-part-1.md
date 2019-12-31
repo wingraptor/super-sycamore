@@ -69,7 +69,7 @@ I have created a composting space for my kitchen scraps, cut grass and garden cl
 
 ### Half-Barrel Bed
 
-**Half-Barrel Bed**
+![Half-Barrel Garden Bed](/images/barrelbed-resized.jpg "Half-Barrel Garden Bed")
 
 Using a plastic half-barrel, I've created *safe space* for  lettuce. This barrel is filled completely with composted kitchen scraps and full of worms and other creatures which in turn help to create delicious lettuce. 
 
