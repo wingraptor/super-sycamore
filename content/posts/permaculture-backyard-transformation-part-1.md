@@ -12,11 +12,16 @@ layout: post
 ---
 ## The Beginning
 
-My backyard space has undergone many changes over the past few years, from a wild mixture of elephant and wild grass, to a space containing a raised garden bed and a couple trees to its current incarnation which includes a few raised beds, a compost area, a *safe space* half-barrel, several varieties of trees and plants and a thoroughly mulched space with little to no wild grass.
+My backyard space has undergone many changes over the past few years, from a wild mixture of elephant and wild grass, to a space containing a raised garden bed and a couple trees to its current incarnation which includes a few raised beds, a compost area, a *safe space* 👀 half-barrel, several varieties of trees and plants and a thoroughly mulched space with little to no wild grass.
 
-Truth be told, not much planning went into the overall design of the backyard, I just planted whatever, wherever there was space.
+Truth be told, not much planning went into the overall design of the backyard, I just planted whatever, wherever there was space. However, I believe that with careful planning I'll be able to:
 
-Despite this, there are still some interesting features in this space which are highlighted below. This will also give context for the transformation that will occur in the coming months. 
+1. Provide even more food for the household.
+2. Experiment with different agricultural techniques and conditions.
+3. Increase plant and wildlife diversity
+4. Document  
+
+*In order to know where you're going, you need to know where you've come from*. I'm going to adhere to this adage and describe my current set up. Leh go!
 
 ## The Plants 🌿
 
@@ -25,21 +30,24 @@ For such a small space, I have 16 varieties of plants in various levels of matur
 1. Several banana trees (technically a [herb](https://www.wikiwand.com/en/Banana))
 2. Pomegranate tree
 3. Soursop tree
-4. Two lime trees,
-5. Four pawpaw plants (one male and tree hermaphrodites)
-6. Several okra plants
-7. Few scotch bonnet pepper plants
-8. Lettuce
-9. Sweet potato
-10. Immature eggplant...plants
-11. Few spinach plants
-12. Immature [suriname cherry](https://www.wikiwand.com/en/Eugenia_uniflora)
-13. Immature [mediterranean fig tree](https://www.wikiwand.com/en/Common_fig)
-14. Lemon grass
-15. (Too much) Basil
-16. [Jack or Sword Bean](https://www.wikiwand.com/en/Canavalia_ensiformis)
+4. Two lime trees
+5. Four [pawpaw plants](https://en.wikipedia.org/wiki/Papaya) (one male and tree hermaphrodites)
+6. Few scotch bonnet pepper plants
+7. Lettuce
+8. Sweet potato
+9. Immature eggplant...plants
+10. Few spinach plants
+11. Immature [suriname cherry](https://www.wikiwand.com/en/Eugenia_uniflora)
+12. Immature [mediterranean fig tree](https://www.wikiwand.com/en/Common_fig)
+13. Lemon grass
+14. (Too much) Basil
+15. [Jack or Sword Bean](https://www.wikiwand.com/en/Canavalia_ensiformis)
 
 ## The Layout
+
+
+
+![](/images/backyard-map.png)
 
 This backyard space is quite small, having a total area of 68 m<sup>2</sup> (732 sq.ft). However, due to a large well occupying an area of 4.5 m<sup>2</sup>(48 sq.ft), the total usable area is 63 m<sup>2</sup>(684 sq.ft). 
 
