@@ -25,7 +25,7 @@ Truth be told, not much planning went into the overall design of the backyard, I
 
 ## The Plants 🌿
 
-For such a small space, I have 16 varieties of plants in various levels of maturity (and health 😌) :
+For such a small space, I have 15 varieties of plants and trees at various levels of maturity (and health 😌) :
 
 1. Several banana trees (technically a [herb](https://www.wikiwand.com/en/Banana))
 2. Pomegranate tree
@@ -37,10 +37,10 @@ For such a small space, I have 16 varieties of plants in various levels of matur
 8. Sweet potato
 9. Immature eggplant...plants
 10. Few spinach plants
-11. Immature [suriname cherry](https://www.wikiwand.com/en/Eugenia_uniflora)
+11. Immature [suriname cherry tree](https://en.wikipedia.org/wiki/Eugenia_uniflora)
 12. Immature [mediterranean fig tree](https://www.wikiwand.com/en/Common_fig)
 13. Lemon grass
-14. (Too much) Basil
+14. Basil
 15. [Jack or Sword Bean](https://www.wikiwand.com/en/Canavalia_ensiformis)
 
 ## The Layout
@@ -53,15 +53,21 @@ This backyard space is quite small, having a total area of 100 m<sup>2</sup> (10
 
 <iframe src="https://giphy.com/embed/ne3xrYlWtQFtC" width="240" height="102.5" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-This area lies on the eastern side of the house and thus is shaded on its western side. This results in it being partially or fully shaded for ~6hrs per day, depending on the time of year. The eastern side is also partially shaded by the neighbors house, but to a much smaller degree. The backyard is open on the southern and northern sides. All of this is useful information for future planning, plant selection and placement.
+The backyard is flanked on its western edge by my house and on the eastern edge by the neighbor's wall and house. This results in it being partially or fully shaded for ~6hrs per day, depending on the time of year. The backyard is open on the southern and northern sides which, along with the placement of the houses, acts to channel and accelerate winds (imagine a wind tunnel); an effect that is very noticeable depending on the time of year. 
+
+There is a slight slope on the southern end which runs from South to North. This will invariably result in water and nutrient accumulation at the bottom of the slope and a deficit at the top unless techniques are used to minimize this effect. 
+
+All of these properties will be taken into account in future planning, plant selection and placement.
 
 ## Special Features
 
-This space has a few special features that are worth highlighting on their own. 
+What is a special feature? In this case, it's any particular aspect of the backyard that may be outside of the norm and will be discussed in more detail in other posts
 
 ### Raised Beds
 
 ![Single Garden Bed](/images/singbed-resized.jpg "Single Garden Bed")
+
+\    sdfsdfsdfsdsdfsdf
 
 ![Twin Garden Bed](/images/twinbed-resized.jpg "Twin Garden Bed")
 
