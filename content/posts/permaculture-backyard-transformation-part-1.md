@@ -67,9 +67,10 @@ What is a special feature? In this case, it's any particular aspect of the backy
 
 ![Single Garden Bed](/images/singbed-resized.jpg "Single Garden Bed")
 
-\    sdfsdfsdfsdsdfsdf
+<p style="text-align: center;"> <strong>Raised Bed 1 </strong></p>
 
 ![Twin Garden Bed](/images/twinbed-resized.jpg "Twin Garden Bed")
+<p style="text-align: center;"> <strong>Raised Bed 2</strong> </p>
 
 I have three raised beds, one 'twin' bed and a single large bed. The twin bed is enclosed using leftover concrete blocks while the large single bed is enclosed with scrap pieces of wood. All beds are filled with a layered mixture of dried grass, branches and leaves, soil mix, compost and topped off with dried grass as a mulch. 
 
