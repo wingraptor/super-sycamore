@@ -14,7 +14,7 @@ layout: post
 
 My backyard space has undergone many changes over the past few years, from a wild mixture of elephant and wild grass, to a space containing a raised garden bed and a couple trees to its current incarnation which includes a few raised beds, a compost area, a *safe space* 👀 half-barrel, several varieties of trees and plants and a thoroughly mulched space with little to no wild grass.
 
-Truth be told, not much planning went into the overall design of the backyard, I just planted whatever, wherever there was space. However, I believe that with careful planning I'll be able to:
+Truth be told, not much planning went into the overall design of the backyard, I just planted whatever, wherever there was space. However, I believe that with careful planning using Permaculture principles I'll be able to:
 
 1. Provide even more food for the household.
 2. Experiment with different agricultural techniques and conditions.
@@ -47,9 +47,9 @@ For such a small space, I have 16 varieties of plants in various levels of matur
 
 
 
-![](/images/backyard-map.png)
+![Schematic of Backyard](/images/backyard-map.png "Schematic of Backyard")
 
-This backyard space is quite small, having a total area of 68 m<sup>2</sup> (732 sq.ft). However, due to a large well occupying an area of 4.5 m<sup>2</sup>(48 sq.ft), the total usable area is 63 m<sup>2</sup>(684 sq.ft). 
+This backyard space is quite small, having a total area of 100 m<sup>2</sup> (1076 sq.ft). Two large wells, taking up 6.82 m<sup>2</sup> in total, reduce the area usable for growing directly into the ground, however, these wells will be used in other ways. 
 
 <iframe src="https://giphy.com/embed/ne3xrYlWtQFtC" width="240" height="102.5" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
