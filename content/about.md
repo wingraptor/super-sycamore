@@ -5,7 +5,7 @@ img_path: ''
 menu:
   main:
     name: About
-    weight: 2
+    weight: 3
 layout: page
 ---
 As any Caribbean person knows if you want a truck, you call de truck man and if you want a taxi, you call de taxi man, so it's only natural that if you want anything planted, you call....**De Plantuh Man**.
