@@ -67,7 +67,7 @@ What is a special feature? In this case, it's any particular aspect of the backy
 
 ![Single Garden Bed](/images/singbed-resized.jpg "Single Garden Bed")
 
-<p style="text-align: center;"> <strong>Raised Bed 1 </strong></p>
+<p class="img-title""> <strong>Raised Bed 1 </strong></p>
 
 ![Twin Garden Bed](/images/twinbed-resized.jpg "Twin Garden Bed")
 <p style="text-align: center;"> <strong>Raised Bed 2</strong> </p>
