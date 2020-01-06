@@ -14,7 +14,9 @@ layout: post
 
 My backyard space has undergone many changes over the past few years, from a wild mixture of elephant and wild grass, to a space containing a raised garden bed and a couple trees to its current incarnation which includes a few raised beds, a compost area, a *safe space* 👀 half-barrel, several varieties of trees and plants and a thoroughly mulched space with little to no wild grass.
 
-Truth be told, not much planning went into the overall design of the backyard, I just planted whatever, wherever there was space. However, I believe that with careful planning using Permaculture principles I'll be able to:
+Truth be told, not much planning went into the overall design of the backyard, I just planted whatever, wherever there was space. In comes Permaculture to (hopefully) save the day. Permaculture (permanent agriculture/culture) is a design philosophy that seeks to utilize natural systems in order to obtain a yield, be it food or other natural products. A strong component of permaculture is working with nature, living or inanimate, rather than against it.
+
+Permaculture necessitates careful planning in order to create a system that requires minimal effort and maximises utilization of available resources. Using Permaculture principles I'll be able to:
 
 1. Provide even more food for the household.
 2. Experiment with different agricultural techniques and conditions.
