@@ -1,5 +1,8 @@
 ---
 title: Follow My Progress
+menu:
+  main:
+    name: Track My Progress
 layout: page
 ---
 Google knows almost everything that I'm up to, so why shouldn't you 👁️? 
