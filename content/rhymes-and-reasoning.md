@@ -1,5 +1,5 @@
 ---
-title: Rhymes and Reasoning
+title: Podcast
 menu:
   main:
     weight: 3
