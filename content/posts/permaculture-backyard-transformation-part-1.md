@@ -72,19 +72,21 @@ What is a special feature? In this case, it's any particular aspect of the backy
 ![Twin Garden Bed](/images/twinbed-resized.jpg "Twin Garden Bed")
 <p style="text-align: center;"> <strong>Raised Bed 2</strong> </p>
 
-I have three raised beds, one 'twin' bed and a single large bed. The twin bed is enclosed using leftover concrete blocks while the large single bed is enclosed with scrap pieces of wood. All beds are filled with a layered mixture of dried grass, branches and leaves, soil mix, compost and topped off with dried grass as a mulch. 
+I have two  raised beds, bed 1 and bed 2 (creative I know). Bed 1 is enclosed using leftover concrete blocks while bed 2 is enclosed with scrap pieces of wood. All beds are filled with a layered mixture of dried grass, branches and leaves, soil mix, compost and topped off with dried grass as a mulch. These beds give me greater control over the initial composition of the soil and deter pests.
 
 ### Compost Space
 
 ![Compost Area](/images/compost-resized.jpg "Compost area with three sections")
+<p style="text-align: center;"> Compost Area </p><p style="text-align: center;"> and </p>
 
-I have created a composting space for my kitchen scraps, cut grass and garden clippings using a few discarded pallets. Composting is something so simple and useful that everyone should be doing it....[right now](https://blog.edisonnation.com/2015/08/10-benefits-of-composting/https://blog.edisonnation.com/2015/08/10-benefits-of-composting/). It's so important that I will do a whole blog post on it😲. 
+I have created a composting space out of disused pallets for my kitchen scraps, cut grass and garden clippings. Composting is something so simple and useful that everyone should be doing it....[right now](https://blog.edisonnation.com/2015/08/10-benefits-of-composting/https://blog.edisonnation.com/2015/08/10-benefits-of-composting/). It's so important that I will do a whole blog post on it😲. 
 
 ### Half-Barrel Bed
 
 ![Half-Barrel Garden Bed](/images/barrelbed-resized.jpg "Half-Barrel Garden Bed")
+<p style="text-align: center;"><strong>Half-Barrel Bed</strong></p>
 
-Using a plastic half-barrel, I've created *safe space* for  lettuce. This barrel is completely filled with composted kitchen scraps and is full of worms and other creatures which in turn help to create delicious lettuce. 
+Using a plastic half-barrel, I've created *safe space*(I know, I know) for  lettuce . This barrel is filled solely with composted kitchen scraps and is full of worms and other creatures which in turn help to create delicious lettuce. 
 
 An added benefit of this setup is that when watered, all of the delicious brown liquid dripping from the bottom is collected and used as a rich fertilizer for other plants in the garden.
 
@@ -92,6 +94,4 @@ An added benefit of this setup is that when watered, all of the delicious brown 
 
 ## The End..of the Beginning
 
-All in all, this backyard space will be transformed using permaculture and other agricultural techniques in order to improve yield, aesthetics ✨✨ and to act as a showcase of techniques which persons can apply to their own spaces. 
-
-Stay tuned for part 2 of this series where we discuss how we plan to transform this space.🙌
+Now that we have an idea of the current backyard situation, we can go about planning for the future. In the next post I will go more deeply into the permaculture principles and apply them to my backyard, so be on the lookout.👀 
