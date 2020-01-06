@@ -15,3 +15,9 @@ disableKinds:
   - RSS
   - taxonomy
   - taxonomyTerm
+
+# Make raw html render on page
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

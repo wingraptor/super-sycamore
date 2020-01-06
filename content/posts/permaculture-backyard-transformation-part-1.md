@@ -50,6 +50,7 @@ For such a small space, I have 15 varieties of plants and trees at various level
 
 
 ![Schematic of Backyard](/images/backyard-map.png "Schematic of Backyard")
+<p class="img-title"> <strong>My Effort at Drawing a Schematic of my Backyard; Approximately to Scale </strong></p>
 
 This backyard space is quite small, having a total area of 100 m<sup>2</sup> (1076 sq.ft). Two large wells, taking up 6.82 m<sup>2</sup> in total, reduce the area usable for growing directly into the ground, however, these wells will be used in other ways. 
 
@@ -69,24 +70,24 @@ What is a special feature? In this case, it's any particular aspect of the backy
 
 ![Single Garden Bed](/images/singbed-resized.jpg "Single Garden Bed")
 
-<p class="img-title""> <strong>Raised Bed 1 </strong></p>
+<p class="img-title"> <strong>Raised Bed 1 </strong></p>
 
 ![Twin Garden Bed](/images/twinbed-resized.jpg "Twin Garden Bed")
-<p style="text-align: center;"> <strong>Raised Bed 2</strong> </p>
+<p class="img-title""> <strong>Raised Bed 2</strong> </p>
 
 I have two  raised beds, bed 1 and bed 2 (creative I know). Bed 1 is enclosed using leftover concrete blocks while bed 2 is enclosed with scrap pieces of wood. All beds are filled with a layered mixture of dried grass, branches and leaves, soil mix, compost and topped off with dried grass as a mulch. These beds give me greater control over the initial composition of the soil and deter pests.
 
 ### Compost Space
 
 ![Compost Area](/images/compost-resized.jpg "Compost area with three sections")
-<p style="text-align: center;"> Compost Area </p><p style="text-align: center;"> and </p>
+<p class="img-title"> Compost Area </p>
 
 I have created a composting space out of disused pallets for my kitchen scraps, cut grass and garden clippings. Composting is something so simple and useful that everyone should be doing it....[right now](https://blog.edisonnation.com/2015/08/10-benefits-of-composting/https://blog.edisonnation.com/2015/08/10-benefits-of-composting/). It's so important that I will do a whole blog post on it😲. 
 
 ### Half-Barrel Bed
 
 ![Half-Barrel Garden Bed](/images/barrelbed-resized.jpg "Half-Barrel Garden Bed")
-<p style="text-align: center;"><strong>Half-Barrel Bed</strong></p>
+<p class="img-title"><strong>Half-Barrel Bed</strong></p>
 
 Using a plastic half-barrel, I've created *safe space*(I know, I know) for  lettuce . This barrel is filled solely with composted kitchen scraps and is full of worms and other creatures which in turn help to create delicious lettuce. 
 
