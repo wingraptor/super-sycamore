@@ -5,4 +5,9 @@ menu:
     weight: 3
 layout: page
 ---
-a space established for the promotion of food music art and culture, conscious rhymes and conversational 'reasonings', with permacultural and green , clean tech ideas,startups and businesses as the primary focus , building a dynamic, diverse network community for current and future generations to interact with and enjoy the interfunctional connectivity of Green EvolutionOk try something like this....a space established for the promotion of food music art and culture, conscious rhymes and conversational 'reasonings', with permacultural and green , clean tech ideas,startups and businesses as the primary focus , building a dynamic, diverse network community for current and future generations to interact with and enjoy the interfunctional connectivity of Green Evolution
+
+## Rhymes and Reasoning Podcast
+
+This podcast has been created as a space for the promotion of all things culture and agriculture. These include food, music, art, conscious rhymes and conversational 'reasonings'. The agricultural component will focus on permaculture and other agricultural methodologies, green technology and agribusiness.
+
+We hope to build a dynamic, diverse network for current and future generations to interact with and enjoy the inter-functional connectivity of the green revolution.
