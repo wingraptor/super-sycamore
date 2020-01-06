@@ -18,23 +18,22 @@ Truth be told, not much planning went into the overall design of the backyard, I
 
 Permaculture necessitates careful planning in order to create a system that requires minimal effort and maximises utilization of available resources. Using Permaculture principles I'll be able to:
 
-1. Provide even more food for the household.
+1. Produce even more food.
 2. Experiment with different agricultural techniques and conditions.
-3. Increase plant and wildlife diversity
-4. Document  
+3. Increase plant and wildlife diversity.
 
-*In order to know where you're going, you need to know where you've come from*. I'm going to adhere to this adage and describe my current set up. Leh go!
+*In order to know where you're going, you need to know where you've come from*. I'm going to adhere to this adage and describe my current set up. Leh go.
 
 ## The Plants 🌿
 
-For such a small space, I have 15 varieties of plants and trees at various levels of maturity (and health 😌) :
+For such a small space, I have 15 varieties of plants and trees at various stages of maturity (and health 😌) :
 
 1. Several banana trees (technically a [herb](https://www.wikiwand.com/en/Banana))
 2. Pomegranate tree
 3. Soursop tree
 4. Two lime trees
 5. Four [pawpaw plants](https://en.wikipedia.org/wiki/Papaya) (one male and tree hermaphrodites)
-6. Few scotch bonnet pepper plants
+6. Five scotch bonnet pepper plants
 7. Lettuce
 8. Sweet potato
 9. Immature eggplant...plants
@@ -47,16 +46,14 @@ For such a small space, I have 15 varieties of plants and trees at various level
 
 ## The Layout
 
-
-
 ![Schematic of Backyard](/images/backyard-map.png "Schematic of Backyard")
-<p class="img-title"> <strong>My Effort at Drawing a Schematic of my Backyard; Approximately to Scale </strong></p>
+<p class="img-title"> <strong>My Attempt at Drawing a Schematic of my Backyard; Approximately to Scale </strong></p>
 
 This backyard space is quite small, having a total area of 100 m<sup>2</sup> (1076 sq.ft). Two large wells, taking up 6.82 m<sup>2</sup> in total, reduce the area usable for growing directly into the ground, however, these wells will be used in other ways. 
 
 <iframe src="https://giphy.com/embed/ne3xrYlWtQFtC" width="240" height="102.5" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-The backyard is flanked on its western edge by my house and on the eastern edge by the neighbor's wall and house. This results in it being partially or fully shaded for ~6hrs per day, depending on the time of year. The backyard is open on the southern and northern sides which, along with the placement of the houses, acts to channel and accelerate winds (imagine a wind tunnel); an effect that is very noticeable depending on the time of year. 
+The backyard is flanked on its western edge by my house and on the eastern edge by the neighbor's wall and house. This results in it being partially or fully shaded for ~6hrs per day, depending on the time of year. It's open on the southern and northern sides which, along with the placement of the houses, acts to channel and accelerate winds (imagine a wind tunnel); an effect that is very noticeable depending on the time of year. 
 
 There is a slight slope on the southern end which runs from South to North. This will invariably result in water and nutrient accumulation at the bottom of the slope and a deficit at the top unless techniques are used to minimize this effect. 
 
@@ -97,4 +94,4 @@ An added benefit of this setup is that when watered, all of the delicious brown 
 
 ## The End..of the Beginning
 
-Now that we have an idea of the current backyard situation, we can go about planning for the future. In the next post I will go more deeply into the permaculture principles and apply them to my backyard, so be on the lookout.👀 
+Now that we have an idea of the current backyard situation, we can go about planning for the future. In the next post I will go more deeply into the permaculture design principles and apply them to my backyard, so be on the lookout.👀 
