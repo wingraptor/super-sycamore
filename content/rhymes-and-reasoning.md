@@ -1,6 +1,6 @@
 ---
 title: Podcast
-img_path: /images/microphone-3624300_1280.png
+img_path: /images/podcast-3939904_1920.jpg
 menu:
   main:
     weight: 3
