@@ -38,7 +38,7 @@ Each card can be thought of as a task, and can be moved from list to list. Each 
 
 ----
 ### Garden Notebook
-See any observations that I make by clicking the notebook below. Observation is the key to success when it comes to growing crops, being observant will not only open up opportunities for improving yields but will help mitigate negative effects such as pest damage.
+See any observations that I make by clicking the notebook below. Observation is the key to success when it comes to growing crops, being observant will not only open up opportunities for improving yields but will help mitigate negative effects such as pest damage, I see you [tobacco hornworm](http://entnemdept.ufl.edu/creatures/field/tobacco_hornworm.htm)🐛
 <p>
 <iframe src="https://onedrive.live.com/embed?cid=DE24BE2E970C7A48&resid=DE24BE2E970C7A48%21805&authkey=AOdu1qp5xQyE-RU" width="98" height="120" frameborder="0" scrolling="no"></iframe>
 </p>
