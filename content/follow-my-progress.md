@@ -15,8 +15,7 @@ See how much produce I'm harvesting, how much money I'm saving and see general u
 <p style="text-align:center; font-size: 0.85em;">See Full Chart <a href="https://docs.google.com/spreadsheets/d/1cSiGTNq5G8GzFxter0aR7hDzExdIUKvHpUmqDBaE73Q/edit#gid=0">Here</a></p>
 
 ---
-See What I Harvest
-### Interactive Chart Showing Produce Harvested and Associated Savings
+### See What I Harvest
 <iframe width="686" height="371" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSlDAoRJ8WkbIFj6e_toPhj1FVBUfbh-WcG6NlD5C6WiqDBbF7LFoGBqfvukmq5jezb2o4kAGViTEsX/pubchart?oid=17757265&amp;format=interactive"></iframe>
 <p style="text-align:center; font-size: 0.85em;">See Full Chart <a href="https://docs.google.com/spreadsheets/d/1cSiGTNq5G8GzFxter0aR7hDzExdIUKvHpUmqDBaE73Q/edit#gid=0">Here</a></p>
 
