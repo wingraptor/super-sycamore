@@ -7,8 +7,6 @@ excerpt: >-
   principles to the backyard. 
 layout: post
 ---
-# Permaculture Backyard Transformation Part 2
-
 In [Part 1](https://www.deplantuhman.com/posts/permaculture-backyard-transformation-part-1/) I gave a synopsis of the current backyard space. This was done both to give you an understanding of what the current situation is and in order for us to effectively plan the transformation which is to occur. 
 
 Permaculture depends on effective planning such that the actual upkeep and maintenance of the space is kept at a minimum. Because of this, much time and effort will be spent carrying out observations, planning and executing said plan so that less time will be spent with upkeep of the space.  
