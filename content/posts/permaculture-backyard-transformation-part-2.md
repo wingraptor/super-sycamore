@@ -84,7 +84,7 @@ More specific wants and needs include:
 
 ## Site Overview
 
-The final constraints to consider are related the actual physical properties of the itself. This briefly covered in the [first post](https://www.deplantuhman.com/posts/permaculture-backyard-transformation-part-1/) in this series. 
+The final constraints to consider are related to the actual physical properties of the itself. This briefly covered in the [first post](https://www.deplantuhman.com/posts/permaculture-backyard-transformation-part-1/) in this series. 
 
 
 
