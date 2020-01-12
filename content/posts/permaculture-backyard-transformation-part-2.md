@@ -18,7 +18,7 @@ In Part 2 of this series I will go through some principles of permaculture desig
 
 Before we get into permaculture design principles, it'll be useful to describe what permaculture actually is. However, if you'd like, can skip this section and jump right into the meat of this blog post.
 
-Permaculture, is a *portmanteau* (or combination) of the words *permanent* (something that lasts a very long time) and *agriculture* (science and art of cultivating plants and livestock). Permaculture was further expanded to mean *permanent culture*, where culture is defined as the set of beliefs, customs and practices of a particular nation or people. Permaculture was first developed by David Holmgren and Bill Mollison in the 1970s and was based on observations of natural systems, how they functioned and how those principles could be applied to agriculture. 
+Permaculture, is a *portmanteau* (or combination) of the words *permanent* (something that lasts a very long time) and *agriculture* (science and art of cultivating plants and livestock). Permaculture was further expanded to mean *permanent culture*, where culture is defined as the set of beliefs, customs and practices of a particular nation or people. Permaculture was first developed by **David Holmgren** and **Bill Mollison** in the 1970s and was based on observations of natural systems, how they functioned and how those principles could be applied to agriculture. 
 
 > "The aim is to create systems that are ecologically-sound and economically viable, which provide for their own needs, do not exploit or pollute, and are therefore sustainable in the long term."  "Permaculture uses the inherent qualities of plants and animals combined with the natural characteristics of landscapes and structures to produce a life-supporting system for city and country, using the smallest practical area."
 
@@ -36,13 +36,13 @@ In order to best utilize this space for my needs, permaculturalist, Bryan (@inph
 * **Client(s) Wants and Needs**: What does the client want and need out of the permaculture space?
 * **Site Overview**: What is the site like in terms of space available, topography and other physical features?
 
-The results of the three sections are summarised below.
+The results of the interview are summarised below.
 
 ### Client Profile
 
 In order to know what setup to create, we must establish who exactly will be utilising the space. Insights determined from this will dictate what will be planted, where they will be planted and what other non-living structures will be present on the property. 
 
-Two persons live on the property with two very different routines, interests and physical capabilities. I (obviously) am interested in and have some knowledge about agriculture, whereas my mum would only very rarely venture into the backyard to harvest a few herbs to cook with. Given this information, the best location to plant herbs would be as near to the kitchen as possible. 
+Two persons live on the property with two very different routines, interests and physical capabilities. I (obviously) am interested in and have some knowledge about agriculture, whereas my mum very rarely ventures into the backyard to pick a few herbs to cook with. Given this information, the best location to plant herbs would be as near to the kitchen as possible. 
 
 On average I spend about 7hrs-9hrs per week gardening, which means that a low maintenance setup would be a priority. The budget will also be kept small, so there will be an emphasis on recycling and utilising low cost or free resources; for example, utilising spare concrete block to build garden beds. I have a background in research, experimentation and development , so naturally a specific space dedicated to experimentation will be factored in. 
 
