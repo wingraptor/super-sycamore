@@ -6,8 +6,8 @@ thumb_img_path: /images/aerialgarden-resize.jpg
 content_img_path: /images/aerialgarden-resize.jpg
 excerpt: >-
   This is Part 1 of the Permaculture Backyard Transformation Project. In this
-  post we will describe the current setup of the backyard; describing the
-  current plants, trees and other interesting features.
+  post I describe the current setup of the backyard; including the plants, trees
+  and other interesting features currently present.
 layout: post
 ---
 ## The Beginning
