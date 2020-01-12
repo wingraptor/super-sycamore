@@ -57,7 +57,7 @@ In terms of fruit/veg. specific likes and dislikes:
 
 Both occupants have no plant allergies 🙌.
 
-## Client Wants and Needs
+### Client Wants and Needs
 
 This section deals with specific wants and needs of the client 😲. 
 
@@ -82,7 +82,7 @@ More specific wants and needs include:
 * Roast pit
 * All organically grown crops
 
-## Site Overview
+### Site Overview
 
 The final constraints to consider are related to the actual physical properties of the itself. This briefly covered in the [first post](https://www.deplantuhman.com/posts/permaculture-backyard-transformation-part-1/) in this series. 
 
@@ -110,11 +110,11 @@ Other site specific considerations include:
 * Ample access to cut grass from adjacent properties which can be used as mulch. 
 * "*Free range chickens*" aka yard fowls who frequently forage on the property
 
-### Next Steps
+## Next Steps
 
 Part 3 of this series will use the information in this post along with permaculture design principles, to draw up a plan, such that the overall vision outlined in the **Client Needs and Section** can be achieved. 
 
-### References
+## References
 
 1. https://www.tropicalpermaculture.com/what-is-permaculture.html
 2. https://permacultureapprentice.com/how-to-design-your-property/
