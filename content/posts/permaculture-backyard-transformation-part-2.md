@@ -83,11 +83,11 @@ More specific wants and needs include:
 
 ## Site Overview
 
-The final constraints to consider are related the actual physical considerations of the itself. This briefly covered in the [first post](https://www.deplantuhman.com/posts/permaculture-backyard-transformation-part-1/) in this series. 
+The final constraints to consider are related the actual physical properties of the itself. This briefly covered in the [first post](https://www.deplantuhman.com/posts/permaculture-backyard-transformation-part-1/) in this series. 
 
 The soils in the property are generally quite rocky and calcareous (contains lots of calcium carbonate or limestone); Barbados is a coral island after all. Given this fact, beds of soil may have to created for certain crops. 
 
-The position of the sun is also an important consideration in determining what to plant where. In order to better identify the sun's position, pictures were taken of the property at approx. ~one hour intervals and a GIF created:
+The position of the sun is also an important consideration in determining what to plant where. In order to better identify the sun's position, pictures were taken of the property at approx. one hour intervals and a GIF created:
 
 
 
