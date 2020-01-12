@@ -1,6 +1,7 @@
 ---
 title: Permaculture Backyard Transformation - Part 2
 date: 2020-01-11T21:48:48.514Z
+thumb_img_path: /images/download.jpeg
 excerpt: >-
   In this post I outline my vision and goals for the backyard space, go into
   more detail as to what permaculture actually is and begin to apply those
