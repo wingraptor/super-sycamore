@@ -43,5 +43,16 @@
         <script src="{{ "assets/js/plugins.js" | relURL }}"></script>
         <script src="{{ "assets/js/main.js" | relURL }}"></script>
         <script src="https://p.trellocdn.com/embed.min.js"></script>
+        <script>
+          (function () {
+            var script = document.createElement('script');
+            window.counter = 'https://deplantuhman_com.goatcounter.com/count'
+            script.async = 1;
+            script.src = '//gc.zgo.at/count.js';
+
+            var ins = document.getElementsByTagName('script')[0];
+            ins.parentNode.insertBefore(script, ins)
+          })();
+        </script>
     </body> 
 </html>
