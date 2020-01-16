@@ -12,7 +12,7 @@ The government of Barbados has set a goal of planting _at least_ 1 million trees
 
 Before we get into it, it's useful to find out why is it even important to plant all of trees in the first place....I mean, we have plenty trees already right?. Well the truth of the matter is that ~1 million trees are destroyed _each day_ in the world. This really is a staggering figure when you consider the many benefits that trees have in the first place:
 
-1. **Trees protect the land**: trees play a role in improving and maintaining the general health of land. The root systems of trees hold the soil together thereby reducing soil erosion, while leaves and branches shield the soil from the heat of the sun, thus limiting water loss from the soil. These effects along with fallen and decomposed foliage (leaves, branches and trigs) help to greatly improve soil health and fertility. These factors are all very important to creating the conditions needed for farming. By planting trees we are potentially creating farms of the future!  
+1. **Trees protect the land**: trees play a role in improving and maintaining the general health of land. The root systems of trees hold the soil together thereby reducing soil erosion, while leaves and branches shield the soil from the heat of the sun, thus limiting water loss from the soil. These effects along with fallen and decomposed foliage (leaves, branches and twigs) help to greatly improve soil health and fertility. These factors are all very important to creating the conditions needed for farming. By planting trees we are potentially creating farms of the future!  
 2. **Trees provide many useful products**: This is the most obvious benefits of trees. They provide food for humans and animals, wood and other materials for building and crafting (e.g. coconut shell craft) and even medicines (e.g. [_Cinchona tree_](https://www.wikiwand.com/en/Cinchona#/Medicinal_use) contains quinine used to treat malaria)
 https://5.imimg.com/data5/AS/WL/MY-49585858/coconut-sheel-craft-500x500.jpg
 3. **Trees help to combat climate change**: Make no mistake global climate change is an existential threat to life on each **as we know it**. One of the driving factors of climate change is the drastic [increase](https://climate.nasa.gov/climate_resources/24/graphic-the-relentless-rise-of-carbon-dioxide/) (See graph below) in atmospheric carbon dioxide (CO2), a potent greenhouse gas.  
@@ -37,20 +37,20 @@ With that background information out of the way, it's time to finally plant some
 
 ### Location
 
-Location is one of the most important things to consider when planting a tree. Choose a location away from power lines, telephone lines and other structures. Remember that a tree will grow to be much much larger than it currently is (See **Type of Tree** section below). Also ensure that the tree isn't planted in an area where it is likely to obstruct paths or intrude on someonelse's property. 
+Location is one of the most important things to consider when planting a tree. Choose a location away from power lines, telephone lines and other structures. Remember that a tree will grow to be much much larger than it currently is (See **Type of Tree** section below). Also ensure that the tree isn't planted in an area where it is likely to obstruct paths or intrude on someone else's property. 
 
 ### Type of Tree
 
 There are many different types of trees all of which grow to different sizes (heights and widths). Some popular trees to plant in Barbados, and which will be planted for the We Plantin' a Million Trees Project include:
 
-- **Soursop**: up to 30 feet (9.1 m) tall. https://homeguides.sfgate.com/grow-guanabana-soursop-plants-57349.html
-- **Sugar apple**: between 10 to 26 feet tall (3 m to 8 m) tall https://hort.purdue.edu/newcrop/morton/sugar_apple.html
-- **Golden apple**: 30 ft to 60 ft (9m to 18m) https://hort.purdue.edu/newcrop/morton/ambarella_ars.html
+- **Soursop**: up to 30 feet (9.1 m) tall. [More info.](https://homeguides.sfgate.com/grow-guanabana-soursop-plants-57349.html)
+- **Sugar apple**: between 10 to 26 feet tall (3 m to 8 m) tall [More info.](https://hort.purdue.edu/newcrop/morton/sugar_apple.html)
+- **Golden apple**: 30 ft to 60 ft (9m to 18m) [More info.] (https://hort.purdue.edu/newcrop/morton/ambarella_ars.html)
 - **Bajan Cherry**: up to 20 ft (6 m) tall. 
-https://hort.purdue.edu/newcrop/morton/barbados_cherry.html
+[More info.] (https://hort.purdue.edu/newcrop/morton/barbados_cherry.html)
 - **Pomegranate**: up to 20 or 30 ft (6 or 10 m) tall.
-https://hort.purdue.edu/newcrop/morton/pomegranate.html
-- **Jamoon**: up to 40 or 50 ft (12-15 m) tall.  https://hort.purdue.edu/newcrop/morton/jambolan.html
+[More info.](https://hort.purdue.edu/newcrop/morton/pomegranate.html)
+- **Jamoon**: up to 40 or 50 ft (12-15 m) tall. [More info.] (https://hort.purdue.edu/newcrop/morton/jambolan.html)
 
 **I highly recommend that you purchase a tree from the [Soil Conservation Unit](https://www.agriculture.gov.bb/Departments/Soil-Conservation-Unit/) in Haggatts St.Andrew. They have a wide selection of tropical trees at very affordable prices and the scenery alone in the area makes it worth it the trip**.
 
