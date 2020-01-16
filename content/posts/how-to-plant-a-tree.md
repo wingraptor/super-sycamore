@@ -14,12 +14,12 @@ The government of Barbados has set a goal of planting *at least* 1 million trees
 Before we get into it, it's useful to find out why is it even important to plant all of trees in the first place....I mean, we have plenty trees already right?. Well the truth of the matter is that ~1 million trees are destroyed *each day* in the world. This really is a staggering figure when you consider the many benefits that trees have in the first place:
 
 1. **Trees protect the land**: trees play a role in improving and maintaining the general health of land. The root systems of trees hold the soil together thereby reducing soil erosion, while leaves and branches shield the soil from the heat of the sun, thus limiting water loss from the soil. These effects along with fallen and decomposed foliage (leaves, branches and twigs) help to greatly improve soil health and fertility. These factors are all very important to creating the conditions needed for farming. By planting trees we are potentially creating farms of the future!  
-2. **Trees provide many useful products**: This is the most obvious benefits of trees. They provide food for humans and animals, wood and other materials for building and crafting (e.g. coconut shell craft) and even medicines (e.g. *[Cinchona tree](https://www.wikiwand.com/en/Cinchona#/Medicinal_use)* contains quinine used to treat malaria) https://5.imimg.com/data5/AS/WL/MY-49585858/coconut-sheel-craft-500x500.jpg
+2. **Trees provide many useful products**: This is the most obvious benefits of trees. They provide food for humans and animals, wood and other materials for building and crafting (e.g. coconut shell craft) and even medicines (e.g. *[Cinchona tree](https://www.wikiwand.com/en/Cinchona#/Medicinal_use)* contains quinine used to treat malaria).
 3. **Trees help to combat climate change**: Make no mistake global climate change is an existential threat to life on each **as we know it**. One of the driving factors of climate change is the drastic [increase](https://climate.nasa.gov/climate_resources/24/graphic-the-relentless-rise-of-carbon-dioxide/) (See graph below) in atmospheric carbon dioxide (CO2), a potent greenhouse gas. 
 
-![Graph Showing Carbon Dioxide Concentration Vs Year](/images/CO2 Graph.jpg "Carbon Dioxide Concentration Vs Year")
-<p class="img-title"> <strong>Graph Showing Carbon Dioxide Concentration Vs Year</strong></p>
+!\[Graph Showing Carbon Dioxide Concentration Vs Year](/images/CO2 Graph.jpg "Carbon Dioxide Concentration Vs Year")
 
+<p class="img-title"> <strong>Graph Showing Carbon Dioxide Concentration Vs Year</strong></p>
 
 Trees and all plants for that matter absorb CO2 from the air and convert them to biomass (wood, leaves, roots, fruit etc.) in a process known as photosynthesis. This effectively reduces atmospheric CO2 by locking the up the CO2 as carbon (the C in CO2) in the trees themselves. 
 
