@@ -70,3 +70,8 @@ Now to finally plant that tree:
 ---
 
 You can give yourself a pat on the back, you've done your part in preserving our environment, feeding the nation and ensuring that we reach the target of one million planted trees in 2020. Be sure to encourage friends and family to do the same.
+
+## References
+
+- http://www.fao.org/3/ad228e/AD228E00.htm#TOC: excellent and extensive resource about planting and caring for tropical trees.
+- https://www.wikihow.com/Plant-a-Tree: more information about how to plant a tree. 
