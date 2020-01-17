@@ -1,7 +1,7 @@
 ---
 title: How to Plant A Tree?
 date: 2020-01-16T21:07:44.494Z
-thumb_img_path: /images/Tree Planting.jpg
+thumb_img_path: /images/IMG_20191205_100423.jpg
 excerpt: "Planting a tree is super simple right? Just dig a hole, drop the tree in, then cover with soil. Boom\U0001F4A5! Done! Well not quite, planting a tree is easy to do, but involves some planning and care to ensure that the tree actually survives and thrives. "
 layout: post
 ---
