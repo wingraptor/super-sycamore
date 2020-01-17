@@ -10,7 +10,7 @@ params:
     logo_img: ''
     title: De Plantuh Man
   layout_style: grid
-  palette: red
+  palette: accent
 disableKinds:
   - RSS
   - taxonomy

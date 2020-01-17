@@ -20,14 +20,14 @@ body {
 }
 
 a {
-  border-bottom: 2px solid _palette(accent);
+  border-bottom: 2px solid _palette(secondary);
   color: _palette(secondary);
   text-decoration: none;
   -webkit-transition: border .3s ease, color .3s ease;
   transition: border .3s ease, color .3s ease;
 
   &:hover {
-    border-color: currentColor;
+    border-color: #a51c30;
     text-decoration: none;
   }
 
@@ -82,6 +82,10 @@ h6 {
 
 p {
   margin: 0 0 1.66667em;
+}
+
+ol li {
+  margin-bottom: 1.5%;
 }
 
 address {
