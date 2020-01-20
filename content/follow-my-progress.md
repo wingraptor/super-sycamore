@@ -2,7 +2,7 @@
 title: See What I'm Up To
 menu:
   main:
-    name: Track My Progress
+    name: Track Projects
     weight: 2
 layout: page
 ---
