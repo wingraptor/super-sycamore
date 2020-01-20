@@ -6,9 +6,9 @@ menu:
     weight: 2
 layout: page
 ---
-Google knows almost everything that I'm up to, so why shouldn't you 👁️? 
+Google knows almost everything that we're up to, so why shouldn't you 👁️? 
 
-See how much produce I'm harvesting, how much money I'm saving and see general updates on the progress of the backyard permaculture project.
+See how much produce we're harvesting, how much money we're saving and see general updates on the progress of the backyard permaculture project.
 
 ### See How Much I Harvest and Save Monthly
 <iframe width="686" height="371" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSlDAoRJ8WkbIFj6e_toPhj1FVBUfbh-WcG6NlD5C6WiqDBbF7LFoGBqfvukmq5jezb2o4kAGViTEsX/pubchart?oid=1678487977&amp;format=interactive"></iframe>
