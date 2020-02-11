@@ -37,7 +37,7 @@ Access to synthetic pesticides also decreased after the collapse of the Soviet U
 
 One of the principles of agroecology is to consider the human element in the whole agricultural process. Because of this, adaption of agroecology in Cuba really proliferated through a series of [initiatives](http://www.fao.org/3/a-bl991e.pdf) which:
 
-1. Disseminated agroecological techniques and practices among farmers and between farmers and governmental organisations. The methodologies of  the *[El Movimiento Campesino a Campesino](https://foodfirst.org/publication/the-campesino-a-campesino-movement/)* or Farmer to Farmer movement, was adopted by Cubans to form the *Campesino-to-Campesino Agroecology Movement (MACAC)*\[http://www.fao.org/3/a-bl991e.pdf]. Through the MACAC, farmers were able to transmit useful information about agroecological techniques between one another to construct collective "best practices" to suit each specific farmer's need. 
+1. Disseminated agroecological techniques and practices among farmers and between farmers and governmental organisations. The methodologies of  the *[El Movimiento Campesino a Campesino](https://foodfirst.org/publication/the-campesino-a-campesino-movement/)* or Farmer to Farmer movement, was adopted by Cubans to form the *Campesino-to-Campesino Agroecology Movement ([MACAC](http://www.fao.org/3/a-bl991e.pdf))*. Through the MACAC, farmers were able to transmit useful information about agroecological techniques between one another to construct collective "best practices" to suit each specific farmer's need. 
 2. Making unused state lands available to farmers, including in urban spaces 
 3. Through governmental and state companies distributing inputs and services to farmers, thereby acting as a facilitator rather than director of agriculture carried out by farmers.
 
@@ -50,7 +50,9 @@ Agroecology saved Cuba from the deleterious effects of the collapse of the Sovie
 3. An increase in the production of vegetables, tubers and beans of between 83% to 351%. 
 4. An increase in resilience to  natural disasters. Farms using agroecological techniques experienced 30%-60% in initial damage as a result of a hurricane, which was lower than the average of 70% for all farms. 
 
-“On an agroecological farm, if one thing doesn’t make it, another one will. There’s always something to eat. It doesn’t matter what happens.” — Nini, agroecological farmer
+> On an agroecological farm, if one thing doesn’t make it, another one will. There’s always something to eat. It doesn’t matter what happens. 
+
+— Nini, agroecological farmer
 
 ## What Can Barbados Learn?
 
