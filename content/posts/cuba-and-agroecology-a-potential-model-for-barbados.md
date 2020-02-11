@@ -4,14 +4,13 @@ subtitle: ''
 date: 2020-02-11T23:35:09.756Z
 thumb_img_path: /images/nacla02-Cuba-IMG_6606UrbAgr08.jpeg
 excerpt: >-
-  When most people think of Cuba, a country of 11.5 million people and occupying
-  105,806 square km, 'agricultural pioneer' probably isn't the first thing that
-  comes to mind. This Spanish speaking country, the largest island nation in the
+  When most people think of Cuba, 'agricultural pioneer' probably isn't the
+  first thing that comes to mind. Cuba, the largest island nation in the
   Caribbean, has a had a varied and oftentimes turbulent past which conjures up
   images of revolution, conflict and cigars. This tumultuous history however,
   has resulted in a country which has had to find ways to innovate as a means of
   survival. Agroecological methods have transformed agriculture in Cuba in a
-  positive way.
+  positive way which offers potential in the Barbadian context.
 layout: post
 ---
 When most people think of Cuba, a country of 11.5 million people and occupying 105,806 square km, 'agricultural pioneer' probably isn't the first thing that comes to mind. This Spanish speaking country, the largest island nation in the Caribbean, has a had a varied and oftentimes turbulent past which conjures up images of revolution, conflict and cigars. This tumultuous history however, has resulted in a country which has had to find ways to innovate as a means of survival; as the saying goes, *smooth seas do not make good sailors*. The decades-long trade embargo imposed by the USA has restricted trade between the two countries to just food and "humanitarian" supplies. Despite this or maybe because of these harsh restrictions Cuba has:
@@ -28,7 +27,7 @@ Agroecology can be defined as the study of the interactions between crops, anima
 
  In the Cuban context, agroecology has demonstrably increased the efficiency of food production (with respect to inputs required), reduced Cuba's reliance on food imports and arguably increased the [quality of food](https://www.independentsciencenews.org/health/unsafe-at-any-dose-diagnosing-chemical-safety-failures-from-ddt-to-bpa/) that the average Cuban eats through the use of organic methods.
 
-Despite this, Cuba wasn't always a pioneer in agroecological methods. In fact, Cuba was once the largest producer of the monocrop sugar cane which utilized traditional industrial agricultural methods. During this period Cuba relied heavily on imports of food (upwards of 70% of food was imported), primarily from the Soviet Union. Following the collapse of the Soviet Union, Cuba's access to pesticides, fertilizers, heavy farming equipment and ultimately food plummeted, with the average Cuban experiencing a decline in daily caloric intake from 3,052  to 2,099 calories per day (the minimum recommended daily caloric intake is 2100-2300). This desperate situation, known as the *Special Period* (1991-2000) called for a reevaluation of agriculture in Cuba. The path forward was determined to be the incorporation of agroecological methods with a strong focus on low external inputs, organic methods and a decentralised, community-led approach to agriculture. 
+Despite this, Cuba wasn't always a pioneer in agroecological methods. In fact, Cuba was once the largest producer of the monocrop sugar cane which utilized traditional industrial agricultural methods. During this period Cuba relied heavily on imports of food (upwards of 70% of food was imported), primarily from the Soviet Union. Following the collapse of the Soviet Union, Cuba's access to pesticides, fertilizers, heavy farming equipment and ultimately food plummeted, with the average Cuban experiencing a decline in daily caloric intake from 3,052  to 2,099 calories per day (the minimum recommended daily caloric intake is 2100-2300). This desperate situation, known as the *[Special Period](https://www.wikiwand.com/en/Special_Period)* (1991-2000) called for a reevaluation of agriculture in Cuba. The path forward was determined to be the incorporation of agroecological methods with a strong focus on low external inputs, organic methods and a decentralised, community-led approach to agriculture. 
 
 ## How Does it Work?
 
@@ -66,7 +65,6 @@ Agroecology saved Cuba from the deleterious effects of the collapse of the Sovie
 **Agroecology in Cuba**: http://www.fao.org/3/a-bl991e.pdf 
 
 **Information on Agroecology**: https://www.agrilinks.org/post/agroecological-farming-key-sustainable-future 
-
 
 **Information on the FEED Project**: http://www.badmc.org/feed/ 
 
