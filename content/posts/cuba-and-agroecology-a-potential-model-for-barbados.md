@@ -2,7 +2,7 @@
 title: 'Cuba and Agroecology: A Potential Model For Barbados'
 subtitle: ''
 date: 2020-02-11T23:35:09.756Z
-thumb_img_path: /images/vinales-tobacco-farmer-xl-1024x550.jpg
+thumb_img_path: /images/nacla02-Cuba-IMG_6606UrbAgr08.jpeg
 excerpt: >-
   When most people think of Cuba, a country of 11.5 million people and occupying
   105,806 square km, 'agricultural pioneer' probably isn't the first thing that
