@@ -1,6 +1,9 @@
 ---
 title: 'Cuba and Agroecology: A Potential Model For Barbados'
-subtitle: >-
+subtitle: ''
+date: 2020-02-11T23:35:09.756Z
+thumb_img_path: /images/vinales-tobacco-farmer-xl-1024x550.jpg
+excerpt: >-
   When most people think of Cuba, a country of 11.5 million people and occupying
   105,806 square km, 'agricultural pioneer' probably isn't the first thing that
   comes to mind. This Spanish speaking country, the largest island nation in the
@@ -9,7 +12,6 @@ subtitle: >-
   has resulted in a country which has had to find ways to innovate as a means of
   survival. Agroecological methods have transformed agriculture in Cuba in a
   positive way.
-date: 2020-02-11T23:35:09.756Z
 layout: post
 ---
 When most people think of Cuba, a country of 11.5 million people and occupying 105,806 square km, 'agricultural pioneer' probably isn't the first thing that comes to mind. This Spanish speaking country, the largest island nation in the Caribbean, has a had a varied and oftentimes turbulent past which conjures up images of revolution, conflict and cigars. This tumultuous history however, has resulted in a country which has had to find ways to innovate as a means of survival; as the saying goes, *smooth seas do not make good sailors*. The decades-long trade embargo imposed by the USA has restricted trade between the two countries to just food and "humanitarian" supplies. Despite this or maybe because of these harsh restrictions Cuba has:
