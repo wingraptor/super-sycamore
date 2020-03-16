@@ -1,6 +1,9 @@
 ---
 title: Podcast
 img_path: /images/podcast-3939904_1920.jpg
+menu:
+  main:
+    name: Podcast
 layout: page
 ---
 ## The Green Room Podcast
