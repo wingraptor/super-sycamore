@@ -13,13 +13,11 @@ One of the main purposes of the De Plantuh Man is to share our personal experien
 
 Manures are one of the most important tools of the organic or backyard farmer. Manures provide nutrients for plants, increase the diversity of soil microbes and improve the physical characteristics of the soil. So far, we've used cow, sheep, goat, chicken and even bat manures (also known as guano). Each of these manures has different [properties](https://modernfarmer.com/2015/05/get-a-load-of-our-manure-guide/), that is, nutrient content and physical characteristics. These considerations are important, but for the average backyard farmer, who is not necessarily looking to optimize their plant growth, these technical details are not as critical. That being said, I'll briefly describe important considerations related to each type.
 
-| Manure  | Source                            | "Hotness"* | Special Considerations                                                                                                       | Notes                                                                                                          |
-|---------|-----------------------------------|------------------|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Cow     | Field where cows graze            | Icey❄️            | Weed seeds likely to be present. | Tends to come in clumps, so best to be broken apart before being used but good to use as is. |
-| Goat    | Goat farmer; from the pen         | Warm             | Often mixed in with bedding and is usually good to use as is. Weed seeds likely to be present.                               | Ours was well aged and mixed with bedding (grass), so we were able to use as is, as a mulch or mixed with soil |
-| Sheep   | Sheep farmer; from the pen       | Warm             | Often mixed in with bedding and is usually good to use as is, however weed seeds likely to be present.                       | Ours was well aged and mixed with bedding (grass), so we were able to use as is, as a mulch or mixed with soil |
-| Bat     | Cole's Cave                       | Very hot🔥🔥       | Difficult to obtain in large quantities but not much is needed.                                                              |                                                                                                                |
-| Chicken | Organic/Free-range chicken farmer | Hot🔥             | If mixed with carbon rich bedding (e.g. woodchips or grass), then manure is less "hot"                                       | Ours was well cured and mixed with bedding (wood chips), so we were able to use as is, as a mulch              |
+
+
+![](/images/manurestable1.png)
+
+
 
 **NOTE** *:  Hotness refers to the amount of nitrogen and ammonia present in the manure. Hot manures contain large amounts of these nutrients, which in high quantities can cause leaves to turn brown and appear burned. Hot manures should therefore not be used [fresh](https://www.gardensalive.com/product/using-manure-wisely) and should be allowed to age or composted down for a period of time before application. So far, none of our plants have been burned due to our manure usage. Our chicken manure was aged outdoors for a long period of time and contained a large amount of woodchip bedding which essentially 'diluted' the manure. Additionally, manure burn can be prevented by using the manures as a mulch (link to section below) at the surface of the soil, rather than mixed into the soil itself. By doing this, nutrients are allowed to slowly leach into the soil rather than touch the roots directly. 
 
@@ -36,6 +34,7 @@ Finally, goat, sheep, horse and cow manures may contain weed seeds that may germ
 ## Mulches
 
 A mulch is any material that is applied to the surface of the soil. Mulches are beneficial in several ways:
+
 1. Reduces water loss from the surface of the soil.
 2. Organic mulches decompose and add nutrients back to the soil.
 3. Mulches suppress weed growth.
@@ -64,7 +63,6 @@ Now fish scraps smell bad, and flies are instantly attracted to them. What I did
 
 <p class="img-title"> <strong>Lettuce plants on the left grown above fish scrap mixture</strong></p>
 
-
 Another experiment that I plan to carry out is to bury some more fish scraps, then plant a tree above it. I'll compare its growth to other trees planted in "just" soil.
 
 ### Molasses
@@ -75,10 +73,7 @@ Molasses is another useful soil amendment then can be applied in liquid form. Mo
 
 Vinasse is an interesting one, vinasse is a byproduct of rum production, and is what's left behind after alcohol is extracted from the "wash" which is the fermented molasses mixture. I asked and was able to obtain a small bucket of vinasse from a local rum distillery. During the fermentation process, when yeast convert sugar to alcohol, the yeast are fed with the same nutrients that plants are fed with. Vinasse therefore contains these nutrients, nonfermented sugars and other organic compounds. Besides directly providing nutrients for the plants, vinasse also stimulates microbe growth in the soil which is beneficial for overall soil health. I only acquired limited quantities of vinasse so wasn't able to experiment with it as much as I would've liked to. On the bright side, my plants weren't negatively affected by its use. 
 
-
-
 All of these mulches, manures and amendments were obtained for free. Everywhere that we went, we were met with persons who were more than happy to help us out, from lending us shovels and bags without us asking, to helping us to collect seaweed, offering us pre-collected bags of manure or just simply being genuinely interested in what were doing. These experiences, among others, have shown that growing food can foster a sense of community and collectiveness. We genuinely hope that this post inspires you to go out there, meet some people and grow some food. 
-
 
 ![Bat Maunure](/images/bat-manure.jpeg "Bat Manure")
 
