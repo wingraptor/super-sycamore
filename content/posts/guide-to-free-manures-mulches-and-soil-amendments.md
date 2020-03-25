@@ -1,8 +1,10 @@
 ---
-title: Guide to Free Manures, Mulches and Soil Amendments
-date: 2020-03-20T23:35:09.756Z
+title: 'Guide to Free Manures, Mulches and Soil Amendments'
+date: 2020-03-04T23:35:09.756Z
 thumb_img_path: /images/mulch.jpg
-excerpt: "In this post we different types of freely available manures, mulches and amendments and our experiences collecting and using them"
+excerpt: >-
+  In this post we different types of freely available manures, mulches and
+  amendments and our experiences collecting and using them
 layout: post
 ---
 One of the main purposes of the De Plantuh Man is to share our personal experiences growing food. Everyone has their own tips and tricks, but for a beginner, it may be difficult to know where to start. In this post we'll describe how we go about collecting manures, mulches and amendments in Barbados. Collecting these resources involves interacting with many persons and I reflect on this aspect as well.
