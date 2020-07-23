@@ -2,7 +2,7 @@
 title: See What I'm Up To
 menu:
   main:
-    name: Track Projects
+    name: Projects
     weight: 2
 layout: page
 ---
